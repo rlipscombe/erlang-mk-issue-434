@@ -8,3 +8,5 @@ I've got a multiple application project that uses erlydtl. It fails with:
 ```
 
 This is a minimal, complete and verifiable example. Just run `make`.
+
+See https://github.com/ninenines/erlang.mk/issues/434 for the related erlang.mk issue.
